@@ -1,0 +1,14 @@
+body {
+    background-color:#ffffff;
+    position: absolute;
+    left:    0;
+    right:   0;
+    z-index : 100;
+    filter : alpha(opacity=100);
+    POSITION: fixed;
+
+}
+
+.hide {
+    display: none;
+}

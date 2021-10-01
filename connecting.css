@@ -1,0 +1,12 @@
+body {
+position: absolute;
+left:    0;
+right:   0;
+z-index : 100;
+filter : alpha(opacity=100);
+POSITION: fixed;
+bottom: 0;
+}
+.hide {
+  display: none;
+}
